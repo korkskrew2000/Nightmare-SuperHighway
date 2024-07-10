@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: a99b50fcec6397d49bab1ac33066ee89
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shitfont Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 467
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f4a2ebb8ca294694a763ada8e2ffa
+      internalID: 1255211688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 467
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd54d0c46f8464d80da51e81561f88
+      internalID: -1352158531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 461
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f3b09fbb666a458634e9345b8f169
+      internalID: 498492555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 403
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e2e3f59dfcbc45bc4ee272d6d56d6
+      internalID: 1933166925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 395
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c717062feea74495f3b6561270123
+      internalID: 442067707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 395
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd753bab560e0c47bdd3b6ed0037941
+      internalID: 521658013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 394
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48b0eccddf5fa4aa0a19a07c064912
+      internalID: 55034751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 395
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7db970836f75841949f331f0449d8d
+      internalID: -55659849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 395
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb244a70243a6504280dc12d45ea4f69
+      internalID: 2068543243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 396
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de4e00f6195e148a0e495d0008305d
+      internalID: -1335973751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 383
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e096ba0423857b41834a1152ed9c906
+      internalID: -972646381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 349
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7c1f92fb1d494e982646067127816
+      internalID: 510581228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 340
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577379b240c755845bcda9dca76d56ca
+      internalID: -871416178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75c751a74b2284479fdc062488afb2e
+      internalID: -1540026564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 363
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da79afda5a74b814585bf58449329a98
+      internalID: 1757831217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 340
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215694e8a25e844989eb26d470ce10e
+      internalID: -1464131754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 340
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ff0f36b2e060419b058434604641c
+      internalID: -1084644670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 340
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe3da0161299a44a896913bd5928c5
+      internalID: -987274430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 340
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5dab3a06459041ab0cff64db4609d
+      internalID: 1310777394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 331
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db3d9151eeffa4b89a2273c0d4ca72
+      internalID: 1651087358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 331
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecfdd28c363da04baa7dfc8e3c9d367
+      internalID: -1658436008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 331
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815c8ae89bd5ecd4da495f8e88f9b89d
+      internalID: -1410109272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 301
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416fa69de084ef4685317b5e91e55d6
+      internalID: 1564376852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 301
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167c2cd682a0a20449b20d7e63b82398
+      internalID: 1721417511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba552344c9fd2c46903cc1ce0d8f59a
+      internalID: -270155941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 294
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250c18e7ee738a4db9dfb152fbe6ef6
+      internalID: -1980110776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 294
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242bffc358816ea4e9d0ec9b0f23f913
+      internalID: -171507303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 285
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800405b20c92cb419ba402b8740e284
+      internalID: -43492868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 285
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e50f40f527494dafcba168619cd95
+      internalID: -1217579110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 285
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401053d62b413f4abeb1e9d6d8dde6e
+      internalID: -940469668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 285
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cddd0ffdd183b45a640f056aff5ce7
+      internalID: 423855099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de3767d7b008346b2762d0f7dc50e2
+      internalID: 920414712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 244
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24b133cb077ce4686700054f3cb006
+      internalID: -1291284092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 233
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60d2e492e653641b46e20afc456bc1
+      internalID: 1212258991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 233
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec323a944174449bd8766010e3ea4c
+      internalID: -575942713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 230
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78ac4fff9da5c144ab13407dbbfffbf
+      internalID: -1021866832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 230
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee700eec6a092a944b8a2542fd1cccb2
+      internalID: 170339499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 229
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda5d85cd96469542904ddf256323b7f
+      internalID: 1758301041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 229
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765856ea16127e548b2eb1a7a1155bbf
+      internalID: 464564664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 230
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e82fff14ec8fc4c82b6cec801a3988
+      internalID: 269516012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 190
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a6605c3698664dbce2744517da066
+      internalID: 185875150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 175
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15730f91b3166044180e2844f52cab43
+      internalID: -847236356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 175
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0ffa6b07a65742a9995105627686e
+      internalID: 1665037027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 175
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1fbed62ca32e489d90d40484ba216
+      internalID: -718707252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 175
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c08224d121c5b14093a294d47536093
+      internalID: 1003760260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 175
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3c9e7be3f25f49be5f9228b96abe8
+      internalID: -1694296165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 175
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507cb9752aeb0b4ea189a07173d35f2
+      internalID: 398421860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 166
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f7a6c0bf98d24bb6148a1e7070546
+      internalID: 1596194646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 120
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4b461f1d97834ab852c306354b0e9
+      internalID: -1874473551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb591b4c556b34aa56462a9e271085
+      internalID: -1300796554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219b8d7110757514d95340fc4a7499b0
+      internalID: -2056505618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 120
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d46201f6416c4da56d3193897419b
+      internalID: 837486733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 120
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc61fb6daf78a4aa404e86d46313a5
+      internalID: 1742891928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 120
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b9c1ea8aa7f44092c2f10e7c2b55a
+      internalID: 1654601866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 120
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243d7fcf375c1146b0c3f098807a6d4
+      internalID: 508289106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 120
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6841224d4ceb146974866fa72ccc84
+      internalID: -1343725065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 120
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128db5eaf5847b40ac7d85beb93b471
+      internalID: 523734668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd72c0833ec6e5438cf9803fd40d7b9
+      internalID: -410633471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d62ef863aabb40913c3604228a57f
+      internalID: 1728377775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32112cb3707a82c4194a8079966338b7
+      internalID: -353616524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dccdb0b7443b3f4b8ef28ca7089b39d
+      internalID: 527894897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 65
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77f422022675943ba6d64a10e39fce
+      internalID: 1557582158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 65
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e73a563174c5498e3ce214df1581c
+      internalID: -959860946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 65
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a481ba9a3d147f44bc10f1e59908b30
+      internalID: -990875085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf784925907fa347ab314bed8987118
+      internalID: 306622941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 65
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543b4cbd46fe4541b01e3da350ad5ee
+      internalID: 366793228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 65
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f975c44b3e7a6340aa5b204556d3f1f
+      internalID: -1734949179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a91d4086feae043a5272c16d9f8b30
+      internalID: -1706874012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fcd3e85f78da46af3ad5f093c888a
+      internalID: 1786233961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0579e1d9fe4a424f9fc642ea7280e61
+      internalID: 541259927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c5a781a5067f468da47c0c0a9d7ce
+      internalID: -571001934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445914eb75c6e14086458c5a3b14589
+      internalID: 186951835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 10
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e6da6a2aa71d14dbcc5b4529564d0c
+      internalID: 1849766318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 10
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be487d12ff9c6045bcd478227a2a754
+      internalID: 673574644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 10
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe40e0e5ecce4a47850d0c1b007844d
+      internalID: -1230205663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 10
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e8f11aaf2c5041b9e3d181b274c7d
+      internalID: 1810362276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitfont Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 10
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99673624c572804bb90ef09834f6cd1
+      internalID: -1648380497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2bb83d1b652da8e42bceb036a6d55e40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shitfont Atlas_17: -1464131754
+      shitfont Atlas_67: 366793228
+      shitfont Atlas_73: 186951835
+      shitfont Atlas_78: -1648380497
+      shitfont Atlas_61: -353616524
+      shitfont Atlas_14: -871416178
+      shitfont Atlas_4: 442067707
+      shitfont Atlas_32: 423855099
+      shitfont Atlas_38: 170339499
+      shitfont Atlas_70: 1786233961
+      shitfont Atlas_65: -990875085
+      shitfont Atlas_35: 1212258991
+      shitfont Atlas_74: 1849766318
+      shitfont Atlas_58: 523734668
+      shitfont Atlas_9: -1335973751
+      shitfont Atlas_51: -1300796554
+      shitfont Atlas_13: 510581228
+      shitfont Atlas_3: 1933166925
+      shitfont Atlas_72: -571001934
+      shitfont Atlas_43: -847236356
+      shitfont Atlas_56: 508289106
+      shitfont Atlas_24: 1564376852
+      shitfont Atlas_0: 1255211688
+      shitfont Atlas_16: 1757831217
+      shitfont Atlas_63: 1557582158
+      shitfont Atlas_26: -270155941
+      shitfont Atlas_44: 1665037027
+      shitfont Atlas_10: -972646381
+      shitfont Atlas_27: -1980110776
+      shitfont Atlas_76: -1230205663
+      shitfont Atlas_53: 837486733
+      shitfont Atlas_57: -1343725065
+      shitfont Atlas_62: 527894897
+      shitfont Atlas_50: -1874473551
+      shitfont Atlas_19: -987274430
+      shitfont Atlas_18: -1084644670
+      shitfont Atlas_28: -171507303
+      shitfont Atlas_21: 1651087358
+      shitfont Atlas_2: 498492555
+      shitfont Atlas_11: 1041237035
+      shitfont Atlas_49: 1596194646
+      shitfont Atlas_31: -940469668
+      shitfont Atlas_68: -1734949179
+      shitfont Atlas_45: -718707252
+      shitfont Atlas_46: 1003760260
+      shitfont Atlas_52: -2056505618
+      shitfont Atlas_23: -1410109272
+      shitfont Atlas_12: -383298591
+      shitfont Atlas_36: -575942713
+      shitfont Atlas_77: 1810362276
+      shitfont Atlas_39: 1758301041
+      shitfont Atlas_1: -1352158531
+      shitfont Atlas_54: 1742891928
+      shitfont Atlas_71: 541259927
+      shitfont Atlas_55: 1654601866
+      shitfont Atlas_60: 1728377775
+      shitfont Atlas_75: 673574644
+      shitfont Atlas_40: 464564664
+      shitfont Atlas_8: 2068543243
+      shitfont Atlas_47: -1694296165
+      shitfont Atlas_59: -410633471
+      shitfont Atlas_66: 306622941
+      shitfont Atlas_69: -1706874012
+      shitfont Atlas_5: 521658013
+      shitfont Atlas_29: -43492868
+      shitfont Atlas_6: 55034751
+      shitfont Atlas_41: 269516012
+      shitfont Atlas_7: -55659849
+      shitfont Atlas_48: 398421860
+      shitfont Atlas_22: -1658436008
+      shitfont Atlas_15: -1540026564
+      shitfont Atlas_33: 920414712
+      shitfont Atlas_34: -1291284092
+      shitfont Atlas_37: -1021866832
+      shitfont Atlas_42: 185875150
+      shitfont Atlas_20: 1310777394
+      shitfont Atlas_25: 1721417511
+      shitfont Atlas_30: -1217579110
+      shitfont Atlas_64: -959860946
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

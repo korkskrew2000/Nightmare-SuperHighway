@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: eb7a34fc5f7a9c144b657d516c9a3b6c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: '{"shaderPath":"Shader Graphs/_main","attributes":[]}'
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
